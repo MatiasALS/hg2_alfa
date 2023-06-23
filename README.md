@@ -1,1 +1,6 @@
-# hg2_alfa
+ALFA
+
+Alfa: Venezuela
+Bravo: Venezuela
+Charlie:
+Delta: Argentina
