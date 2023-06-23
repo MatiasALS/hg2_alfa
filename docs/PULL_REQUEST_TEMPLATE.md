@@ -1,17 +1,17 @@
 # Tipo de usuario
-- [] Alfa
-- [] Bravo 
-- [] Charlie
-- [] Delta
-- [] Echo
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
 
 # Tecnología
-- [] Python
-- [] Markdown
+- [ ] Python
+- [ ] Markdown
 
 # Seleccione el tipo de actividad
-- [] Feature
-- [] Hotfix
-- [] Refactor
-- [] Performance
-- [] Testing
+- [ ] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
